@@ -77,6 +77,7 @@
         "drupal/quick_node_clone": "^1.13",
         "drupal/redirect": "^1.6",
         "drupal/redirect_after_login": "^2.7",
+        "drupal/robotstxt": "^1.4",
         "drupal/rules": "^3.0@alpha",
         "drupal/schema_metatag": "^2.1",
         "drupal/search_api": "^1.18",
